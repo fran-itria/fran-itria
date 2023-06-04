@@ -1,18 +1,13 @@
-### Hola, mi nombre es Franco Itria
-<hr>
+### <h1> Hola, mi nombre es Franco Itria </h1>
 También conocido como frn-itria en github <br>
-### ¿Quién soy?
-<hr>
+<h2> <b> ¿Quién soy? </b> </h2>
 Soy un Programador fullstack especializado en Back-end. <br>
-Inicie en la programación a los 21 años con el bootcamp Soy Henry <br>
-### ¿Que hago?
-<hr>
-Actualmente me dedico a realizar proyectos personale spara seguir aprendiendo los nuevis avances y mejoras en el mundo de la programación <br>
-### ¿A donde me dirijo?
-<hr>
+Inicie en la programación a los 20 años en la carrera Ingeniería infrormática y a los 21 continué con el bootcamp Soy Henry donde adqueri la mayor parte de los conociminetos que poseo actualmente. <br>
+<h2> ¿Que hago? </h2>
+Actualmente estoy en busqeuda laboral como desarrollador fullstack, me dedico a realizar proyectos personales para seguir aprendiendo sobre los nuevos avances y nuevas tecnologias en el mundo de la programación <br>
+<h2> ¿A donde me dirijo? </h2>
 Aspiro a trabajar en el mundo del desarrollo web y seguir aprendiendo ya que esta en constante actualización. Me gusta la idea de poder crear aplicaciones que faciliten las tareas de las personas para el desarrollo de su trabajo o en la vida cotidiana. <br>
-### ¿Qué tecnologías uso?
-<hr>
+<h2> ¿Qué tecnologías uso? </h2>
 El bootcamp de Henry me ha permitido adquerir conocimientos en las siguientes tecnologías:
 <ul>
   <li>HTML</li>
@@ -28,5 +23,5 @@ El bootcamp de Henry me ha permitido adquerir conocimientos en las siguientes te
 </ul>
  
  No dudes en contactarme <br>
- <a href="https://www.linkedin.com/in/francoitria/"> Linkedin </a> <br>
+ <a href="https://www.linkedin.com/in/francoitria/"> LinkedIn </a> <br>
  Mail: francoitria01@gmail.com
