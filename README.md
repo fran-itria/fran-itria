@@ -25,7 +25,7 @@ El bootcamp de Henry me ha permitido adquerir conocimientos en las siguientes te
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>Javascript</li>
+  <li>JavaScript</li>
   <li>TypeScript</li>
   <li>React</li>
   <li>Redux</li>
