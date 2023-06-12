@@ -32,6 +32,7 @@ El bootcamp de Henry me ha permitido adquerir conocimientos en las siguientes te
   <li>Next.js</li>
   <li>Node.js</li>
   <li>Express.js</li>
+  <li>PostgresSQL</li>
   <li>Sequelize</li>
   <li>Git</li>
 </ul>
